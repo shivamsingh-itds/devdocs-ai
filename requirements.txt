@@ -1,0 +1,43 @@
+# ==============================
+# LLM & RAG
+# ==============================
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+
+# ==============================
+# Embeddings & Vector Database
+# ==============================
+sentence-transformers
+faiss-cpu
+
+# ==============================
+# Document Processing
+# ==============================
+pymupdf
+python-docx
+
+# ==============================
+# Backend API
+# ==============================
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ==============================
+# Configuration
+# ==============================
+python-dotenv
+
+# ==============================
+# Data Validation
+# ==============================
+pydantic
+
+# ==============================
+# HTTP / Utilities
+# ==============================
+requests
+httpx
