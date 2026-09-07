@@ -1,2 +1,5 @@
 venv/
 Devdoc/
+__pycache__/
+*.pyc
+vectorstore/
