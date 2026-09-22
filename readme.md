@@ -275,12 +275,6 @@ CHUNK_OVERLAP=100
 VECTOR_DB_PATH=vectorstore/faiss_index
 ```
 
-### Important
-
-Never commit your `.env` file.
-
-The API key should remain private.
-
 ---
 
 ## 📚 Adding Documents
